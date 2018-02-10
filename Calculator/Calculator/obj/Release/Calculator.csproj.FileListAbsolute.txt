@@ -1,0 +1,9 @@
+D:\Dog\Calculator\Calculator\bin\Release\Calculator.exe.config
+D:\Dog\Calculator\Calculator\bin\Release\Calculator.exe
+D:\Dog\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\Dog\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+D:\Dog\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Dog\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+D:\Dog\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+D:\Dog\Calculator\Calculator\obj\Release\Calculator.exe
+D:\Dog\Calculator\Calculator\obj\Release\Calculator.pdb
